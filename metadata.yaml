@@ -1,0 +1,32 @@
+_repo: Greek-Women_32318
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carroll, Mitchell
+    birthdate: 1870
+    deathdate: 1925
+    gutenberg_agent_id: '35794'
+    url: http://www.gutenberg.org/2009/agents/35794
+description: Cover; Front matter; Title page; Copyright page; Body matter; General
+  Introduction; Preface; Chapter I; Chapter II; Chapter III; Chapter IV; Chapter V;
+  Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter XI; Chapter
+  XII; Chapter XIII; Chapter XIV; Chapter XV;
+gutenberg_issued: '2010-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Woman: in all ages and in all countries, Volume 1'
+subjects:
+- !lcc 'HQ'
+- !lcc 'DF'
+- !lcsh 'Women -- Greece -- Biography'
+- !lcsh 'Women -- Greece -- History'
+title: Greek Women
+url: http://www.gutenberg.org/ebooks/32318
