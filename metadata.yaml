@@ -14,6 +14,8 @@ description: Cover; Front matter; Title page; Copyright page; Body matter; Gener
   Introduction; Preface; Chapter I; Chapter II; Chapter III; Chapter IV; Chapter V;
   Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter XI; Chapter
   XII; Chapter XIII; Chapter XIV; Chapter XV;
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32318#Greek-Women
 gutenberg_issued: '2010-05-10'
 gutenberg_type: Text
 identifiers:
